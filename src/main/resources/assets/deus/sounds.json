@@ -1,0 +1,32 @@
+{
+  "realidade_carga": {
+    "sounds": [
+      "deus:realidade_carga"
+    ]
+  },
+  "realidade_onda": {
+    "sounds": [
+      "deus:realidade_onda"
+    ]
+  },
+  "realidade_desfeita": {
+    "sounds": [
+      "deus:realidade_desfeita"
+    ]
+  },
+  "onda_choque": {
+    "sounds": [
+      "deus:onda_choque"
+    ]
+  },
+  "energia_pulso": {
+    "sounds": [
+      "deus:energia_pulso"
+    ]
+  },
+  "eletro_trovao": {
+    "sounds": [
+      "deus:eletro_trovao"
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "deus:block/trono"
+    },
+    "facing=east": {
+      "model": "deus:block/trono",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "deus:block/trono",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "deus:block/trono",
+      "y": 270
+    }
+  }
+}
